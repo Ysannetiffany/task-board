@@ -1,11 +1,11 @@
 # Task-Board
 
-Create a simple task board application that allows a team to manage project tasks by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+The aim of this project was to create a simple task board application that allows a team to manage project tasks. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 ## How to use
 
 First, click on "Add a task". This will open a window which prompts you to enter information about your task as well as its due date. The task will then be shown under the "To do" board with its corresponding colour of white for a task due in the future, yellow for a task due today and red for a task that is over due. 
-The task can be moved accordingly to the "In Progress" tab and when it is moved to the "Done" the colour changes to white. Tasks can be added and deleted at any time as well as moved along the board in any direction. 
+The task can be moved accordingly to the "In Progress" tab and when it is moved to "Done" the colour changes to white. Tasks can be added and deleted at any time as well as moved along the board in any direction. 
 
 ## License
 This project is licensed under the MIT License.
